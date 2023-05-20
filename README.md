@@ -3,6 +3,8 @@
 Front-end component of an employee management system project
 Backend at: https://github.com/AndyX07/Employee-Management-System-Backend
 
+Demo: https://andyteamify.netlify.app/
+
 Technologies Used:
 - Mern stack
 - React
