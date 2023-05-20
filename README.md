@@ -5,6 +5,7 @@ Backend at: https://github.com/AndyX07/Employee-Management-System-Backend
 
 Technologies Used:
 - Mern stack
+- React
 - Redux
 
 ## Setup
